@@ -5,6 +5,8 @@
 <!--
 **vidyasrimani/vidyasrimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=vidyasrimani&theme=react-dark&hide_border=true&area=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
