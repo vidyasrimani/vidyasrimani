@@ -5,6 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerating Python for Data Science with Numba](https://medium.com/@vidyamani/accelerating-python-for-data-science-with-numba-ecd0466cd515?source=rss-327bbd88db26------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
