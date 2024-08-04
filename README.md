@@ -5,6 +5,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecting Large-Scale Search Solutions on GCP: A Technical Deep Dive](https://medium.com/@vidyamani/architecting-large-scale-search-solutions-on-gcp-a-technical-deep-dive-bb9caeaf8912?source=rss-327bbd88db26------2)
+- [Architecting Large-Scale Search Solutions on GCP : Part 1. Overview](https://medium.com/@vidyamani/architecting-large-scale-search-solutions-on-gcp-part-1-overview-e0d26066f4c8?source=rss-327bbd88db26------2)
 - [Turbocharging Python for Data Science with Numba](https://medium.com/@vidyamani/accelerating-python-for-data-science-with-numba-ecd0466cd515?source=rss-327bbd88db26------2)
 <!-- BLOG-POST-LIST:END -->
 
