@@ -13,7 +13,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@vidyamani"
+          max_post_count: 5
+          template: "table"
+          commit_message: "Update README with latest Medium posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: "./README.md"
