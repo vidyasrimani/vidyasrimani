@@ -40,7 +40,4 @@ I’m an AI Engineer focused on moving models from "it works on my machine" to "
 <a href="https://medium.com/@vidyamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vidyamani" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyasrimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidyasrimani" />
-</p>
 
