@@ -44,7 +44,3 @@ I’m an AI Engineer focused on moving models from "it works on my machine" to "
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyasrimani&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="vidyasrimani" />
 </p>
 
----
-<p align="center">
-"The best way to predict the future is to implement it."
-</p>
