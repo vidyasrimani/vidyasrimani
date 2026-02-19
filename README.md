@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidya</h1>
+<h1 align="center">Hi, I'm Vidya</h1>
 <h3 align="center">Senior AI Engineer | Architecting Scalable Intelligence</h3>
 
 <p align="center">
@@ -7,14 +7,13 @@
 
 ---
 
-### 🚀 The Brief
 I’m an AI Engineer focused on moving models from "it works on my machine" to "it scales in production." Currently bridging the gap between deep research and robust engineering. I specialize in **Generative AI orchestration, RAG architectures, and MLOps.** * **Currently Obsessing Over:** Agentic workflows, prompt engineering at scale, and making LLMs less "hallucination-prone."
 * **The Philosophy:** If it’s not reproducible, it’s not science. If it’s not scalable, it’s just a hobby.
 * **Fun Fact:** I spend 10% of my time training models and 90% of my time convincing the data to behave. 
 
 ---
 
-### 🛠️ Specialized Toolkit
+### Toolkit
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -25,7 +24,7 @@ I’m an AI Engineer focused on moving models from "it works on my machine" to "
 
 ---
 
-### 🧪 Featured Work (The "Signal" in the Noise)
+### Featured Work (The "Signal" in the Noise)
 
 * **[Semantic Search 2.0]** - Re-architecting traditional search into deep NLP pipelines using Transformers and Solr indexing.
 * **[Scalable MLOps Pipeline]** - (In Progress) A full-stack AI deployment template featuring FastAPI, Docker, and automated monitoring.
@@ -33,7 +32,7 @@ I’m an AI Engineer focused on moving models from "it works on my machine" to "
 
 ---
 
-### ✍️ Thought Leadership
+### Thought Leadership
 *Check out my latest insights on Medium where I translate complex AI concepts into human-readable stories.*
 <h3 align="left">Let's Talk Shop:</h3>
 <p align="left">
