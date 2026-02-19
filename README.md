@@ -41,6 +41,6 @@ I’m an AI Engineer focused on moving models from "it works on my machine" to "
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyasrimani&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="vidyasrimani" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidyasrimani&show_icons=true&locale=en&layout=compact&theme=radical" alt="vidyasrimani" />
 </p>
 
